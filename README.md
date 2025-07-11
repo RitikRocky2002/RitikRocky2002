@@ -3,6 +3,8 @@
 
 Email Me 👉 ✉️ **ritikshekharparida2002@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RitikRocky2002&label=Profile%20views&color=0e75b6&style=flat" alt="RitikRocky2002" /> </p>
+
 <!-- Snake Game Repo View -->
 
 <!--<div align="center">
